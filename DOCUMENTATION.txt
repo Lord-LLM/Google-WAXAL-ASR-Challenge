@@ -1,9 +1,0 @@
-DOCUMENTATION
-1)punctuation = lower scores
-2)use pretrained architectures - strong optimization for assesment languages
-3)add noise for real world scenarios - data augment
-4)optimize for gpu
-5)add dataset - use even different
-6)stream dataset
-7)audio profiling for test data and train
-8)
